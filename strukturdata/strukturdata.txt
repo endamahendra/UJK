@@ -1,0 +1,1 @@
+Struktur data yang digunakan adalah kombinasi array asosiatif (untuk merepresentasikan satu mahasiswa), dalam bahasa pemrograman array asosiatif biasa juga disebut hash table yang bisa digunakan untuk menyimpan data yang key yang unik dan nilai yang terkait dengan key tersebut.

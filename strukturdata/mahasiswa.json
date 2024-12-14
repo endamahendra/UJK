@@ -1,0 +1,16 @@
+[
+    {
+        "npm": "230615002",
+        "nama": "Randa",
+        "tempat_lahir": "belitung",
+        "tanggal_lahir": "1991-10-01",
+        "prodi": "teknik informatika"
+    },
+    {
+        "npm": "230615009",
+        "nama": "Ayu Lestari",
+        "tempat_lahir": "Bandung",
+        "tanggal_lahir": "1991-10-01",
+        "prodi": "sistem informasi"
+    }
+]
